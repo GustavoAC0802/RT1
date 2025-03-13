@@ -9,7 +9,7 @@
       "forceConsistentCasingInFileNames": true,
       "skipLibCheck": true
     },
-    "include": ["src"],
+    "include": ["src", "out/descritor.js", "out/empresa.js", "out/endereco.js", "out/funcionario.js", "out/index.js", "out/telefone.js"],
     "exclude": ["node_modules", "dist"]
 }
   

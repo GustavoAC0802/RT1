@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var endereco_1 = require("./endereco");
-var telefone_1 = require("./telefone");
-var empresa_1 = require("./empresa");
-var funcionario_1 = require("./funcionario");
-var descritor_1 = require("./descritor");
+var endereco_1 = require("../src/endereco");
+var telefone_1 = require("../src/telefone");
+var empresa_1 = require("../src/empresa");
+var funcionario_1 = require("../src/funcionario");
+var descritor_1 = require("../src/descritor");
 var endereco = new endereco_1.default();
 endereco.numero = 888;
 endereco.rua = 'Rua do João';
