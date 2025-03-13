@@ -1,4 +1,4 @@
-import Endereco from "./endereco"
+import Endereco from "../out/endereco"
 import Telefone from "./telefone"
 
 export default class Funcionario{

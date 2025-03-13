@@ -1,6 +1,8 @@
-import Empresa from "./empresa";
+import Empresa from "./empresa"
 
 export default class Descritor {
+    public empresa:Empresa
+
     public descritor(empresa) {
         let txt = ''
         empresa.funcionarios.forEach(func => {

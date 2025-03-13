@@ -1,7 +1,7 @@
 import Endereco from "./endereco";
 import Telefone from "./telefone";
 import Empresa from "./empresa";
-import Funcionario from "./funcionario";
+import Funcionario from "../out/funcionario";
 import Descritor from "./descritor";
 
 let endereco = new Endereco()

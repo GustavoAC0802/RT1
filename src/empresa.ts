@@ -1,5 +1,5 @@
 import Endereco from "./endereco"
-import Funcionario from "./funcionario"
+import Funcionario from "../out/funcionario"
 
 export default class Empresa{
     public razaoSocial: string
